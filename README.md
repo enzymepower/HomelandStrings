@@ -1,15 +1,15 @@
 Strings pulled out of Homeland's data files.
 
 File format:
+windows line breaks(\r\n)
 Character encoding is Shift JIS
-If the first character is a '#' this line will be ignored
-Hexadecimal offset the string in the file it was pulled from.
-Tab.
-The number of bytes in the String in hexadecimal.
-Tab.
-The string itself.
-Tab.
-One Question mark for each byte in the string(This is where you write the translated string)
+If the first character is a '#' this string will be ignored
+string id, followed by line break
+a list of file and offset(int hexadecimal) pairs, ending with an empty line
+	there is a tab between the file and the offset, followed by a line break
+The number of bytes in the String(called length) in hexadecimal, followed by a line break
+The original text(there are length bytes), followed by a line break(because it looks better in a text editor).
+the replacement text(length bytes), followed by a line break
 Carriage return, line feed(Windows new line)
 
-The all.bin.texts file is clean, however, the *.rel.texts and boot.dol.texts files have some garbage.
+there are 23409 unique strings
