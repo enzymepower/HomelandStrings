@@ -22,6 +22,6 @@ replacement String bytes, with a '|' indicating where it ends(So don't use one i
 If the replacement string is longer than the original, the patcher will give an error.
 The patcher will handle replacement strings that are shorter than the orginal.
 
-there are 23483 unique strings
+there are 23660 unique strings
 
 If a string looks weird, hl-string-ef9df550for example, create an issue.

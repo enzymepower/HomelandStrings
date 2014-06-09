@@ -2674,6 +2674,30 @@ server.rel	000fbdb4
 
 0000000e
 こうもんのカギ
+hl-string-1d04901b
+alone.rel	0014ef38
+server.rel	000fcc68
+
+00000002
+Bﾈ
+hl-string-c899b3d7
+alone.rel	0014ef40
+alone.rel	00156178
+alone.rel	00156190
+alone.rel	001561d0
+alone.rel	00156240
+alone.rel	001562a8
+alone.rel	001562b0
+alone.rel	00156510
+alone.rel	0017e2c0
+alone.rel	00196ab0
+alone.rel	00196ad8
+alone.rel	00196f58
+alone.rel	00196f60
+server.rel	000fcc70
+
+00000002
+C0
 hl-string-178444d7
 alone.rel	0014f4b8
 client.rel	000af018
@@ -2702,6 +2726,14 @@ server.rel	000fd21c
 
 00000004
 つの
+hl-string-1a1191ab
+alone.rel	0014f4f4
+client.rel	000af054
+server.rel	000fd224
+boot.dol	00179c78
+
+00000002
+や
 hl-string-c8efb011
 alone.rel	0014f4f8
 client.rel	000af058
@@ -3778,6 +3810,11 @@ server.rel	000fe76c
 
 0000002d
 しこうのそんざい（かみさまプレイに ひつよう）
+hl-string-f271497c
+alone.rel	00150b48
+
+00000002
+ @
 hl-string-b89fa156
 alone.rel	00150b54
 alone.rel	001547d4
@@ -4454,17 +4491,142 @@ server.rel	00103d64
 
 00000016
 不明なエラーコードです
+hl-string-d7d4eced
+alone.rel	00156170
+
+00000002
+@$
 hl-string-8aa54925
 alone.rel	00156181
 
 00000008
 ddﾈ>詛f?
+hl-string-3330e5ba
+alone.rel	001561e8
+alone.rel	001562a4
+
+00000002
+@@
+hl-string-f4a0ca44
+alone.rel	00156204
+alone.rel	00156210
+alone.rel	00156554
+
+00000002
+BH
+hl-string-0fb652e8
+alone.rel	00156234
+
+00000002
+@ﾀ
+hl-string-7a98237f
+alone.rel	00156260
+
+00000002
+ﾀ@
+hl-string-f45c282a
+alone.rel	0015627c
+
+00000002
+C 
+hl-string-8f106d78
+alone.rel	00156280
+
+00000002
+Bp
+hl-string-6890c837
+alone.rel	00156290
+
+00000002
+CH
+hl-string-d45c0ece
+alone.rel	00156294
+alone.rel	001ac320
+alone.rel	001ac3e4
+alone.rel	001ac400
+alone.rel	001ac41c
+alone.rel	001ac438
+alone.rel	001aca04
+alone.rel	001acd14
+
+00000002
+B 
+hl-string-2de802b0
+alone.rel	00156298
+
+00000002
+Da
+hl-string-9ea51b0f
+alone.rel	0015629c
+
+00000002
+CX
 hl-string-a643d4eb
 alone.rel	001564a0
-server.rel	00103fe0
 
 0000000a
 ‥。・！？
+hl-string-9f9e8491
+alone.rel	001564f0
+
+00000002
+Cﾜ
+hl-string-f0a768c6
+alone.rel	001564fc
+
+00000002
+D 
+hl-string-632d929d
+alone.rel	00156508
+
+00000002
+A@
+hl-string-7a7202fb
+alone.rel	0015653c
+alone.rel	00196aa0
+
+00000002
+A 
+hl-string-66bae6d5
+alone.rel	00156544
+
+00000002
+Bｴ
+hl-string-013fa8d0
+alone.rel	00156548
+
+00000002
+Cｴ
+hl-string-bef5614f
+alone.rel	0015654f
+
+00000003
+ﾛBﾈ
+hl-string-ef0c430d
+alone.rel	00156558
+
+00000002
+C@
+hl-string-724a6f15
+alone.rel	0015655c
+
+00000002
+C`
+hl-string-4f0f38d7
+alone.rel	0015656c
+
+00000002
+Co
+hl-string-ea175fe6
+alone.rel	00156570
+
+00000002
+ﾃI
+hl-string-fe8ee15b
+alone.rel	00156574
+
+00000002
+CI
 hl-string-79f02cfa
 alone.rel	001565b0
 client.rel	000b6120
@@ -4611,6 +4773,19 @@ all.bin	12719cf3
 
 00000006
 エルザ
+hl-string-92947dc4
+alone.rel	00156808
+alone.rel	00156810
+alone.rel	00156820
+
+00000002
+?ﾀ
+hl-string-23eeade9
+alone.rel	00156814
+alone.rel	00156818
+
+00000002
+? 
 hl-string-162ae872
 alone.rel	00170540
 client.rel	000e91b8
@@ -24967,11 +25142,41 @@ server.rel	00133d80
 
 00000008
 がいこく
+hl-string-ac5af99f
+alone.rel	0017e2b3
+
+00000002
+3@
 hl-string-15b89b50
 alone.rel	00196a58
 
 0000001c
 ｻＢボタンｰ：へんしんをやめる
+hl-string-f9e573c9
+alone.rel	00196a7c
+
+00000002
+@`
+hl-string-6537a075
+alone.rel	00196a80
+
+00000002
+ﾁ 
+hl-string-aff3b3ce
+alone.rel	00196aac
+
+00000002
+Cp
+hl-string-6f14c7cd
+alone.rel	00196afb
+
+00000003
+ﾛ@@
+hl-string-08d1623c
+alone.rel	00196b00
+
+00000002
+C4
 hl-string-71477a86
 alone.rel	00196e20
 
@@ -24982,6 +25187,11 @@ alone.rel	001a6a3a
 
 0000005a
 いうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをん
+hl-string-5a3e2b5b
+alone.rel	001a6ab8
+
+00000002
+A`
 hl-string-03ab4231
 alone.rel	001ab696
 alone.rel	001ab726
@@ -25014,6 +25224,116 @@ server.rel	00126b3c
 
 00000012
 エルザタワー４かい
+hl-string-194b9789
+alone.rel	001ac274
+alone.rel	001ac518
+alone.rel	001ac974
+alone.rel	001ac990
+alone.rel	001ac9ac
+alone.rel	001ac9c8
+alone.rel	001ac9e4
+
+00000002
+ﾂ 
+hl-string-658a1078
+alone.rel	001ac278
+alone.rel	001ac294
+alone.rel	001ac2ac
+alone.rel	001ac2b0
+alone.rel	001ac2cc
+alone.rel	001ac2e8
+alone.rel	001ac550
+alone.rel	001ac568
+alone.rel	001ac56c
+alone.rel	001ac588
+alone.rel	001ac5a4
+alone.rel	001acb1c
+alone.rel	001acb70
+
+00000002
+ﾁﾀ
+hl-string-663dd04a
+alone.rel	001ac33c
+alone.rel	001ac374
+alone.rel	001ac390
+alone.rel	001ac3ac
+alone.rel	001ac3c8
+alone.rel	001ac454
+alone.rel	001ac470
+alone.rel	001ac48c
+alone.rel	001ac4a8
+alone.rel	001aca20
+
+00000002
+B@
+hl-string-81cbee43
+alone.rel	001ac358
+alone.rel	001ac62c
+alone.rel	001ac6b8
+alone.rel	001ac744
+alone.rel	001ac7d0
+alone.rel	001ac85c
+alone.rel	001ac8e8
+alone.rel	001aca3c
+
+00000002
+B`
+hl-string-90bc53a8
+alone.rel	001ac434
+alone.rel	001ac4a4
+alone.rel	001ac69c
+alone.rel	001ac728
+alone.rel	001ac7b4
+alone.rel	001ac840
+alone.rel	001ac8cc
+alone.rel	001ac958
+alone.rel	001acbf8
+alone.rel	001acca0
+
+00000002
+Bｰ
+hl-string-763d2644
+alone.rel	001ac4e0
+alone.rel	001ac614
+
+00000002
+ﾂ`
+hl-string-cc5807a3
+alone.rel	001ac4fc
+
+00000002
+ﾂ@
+hl-string-18bca303
+alone.rel	001acb18
+alone.rel	001acb34
+alone.rel	001acb50
+alone.rel	001acc14
+alone.rel	001accbc
+alone.rel	001bd2d0
+
+00000002
+Bﾀ
+hl-string-fae039b1
+alone.rel	001acb6c
+alone.rel	001acb88
+alone.rel	001acba4
+alone.rel	001acc30
+alone.rel	001acc4c
+alone.rel	001acc68
+alone.rel	001accd8
+alone.rel	001accf4
+alone.rel	001acd10
+
+00000002
+Bﾐ
+hl-string-cf1df0cf
+alone.rel	001acc88
+alone.rel	001acca4
+alone.rel	001accc0
+alone.rel	001accdc
+
+00000002
+Aﾀ
 hl-string-fd050598
 alone.rel	001ad838
 server.rel	00128138
@@ -27877,6 +28197,16 @@ server.rel	00139de4
 
 00000010
 ドラクロおうのま
+hl-string-ad573668
+alone.rel	001b45dc
+
+00000003
+100
+hl-string-0604cd31
+alone.rel	001b45e0
+
+00000003
+500
 hl-string-273c87e3
 alone.rel	001b5ad8
 client.rel	00101a80
@@ -29046,6 +29376,13 @@ server.rel	0013c144
 
 0000000a
 だっしゅつ
+hl-string-e1c3d9fa
+alone.rel	001b63e8
+client.rel	00102390
+server.rel	0013c150
+
+00000002
+プ
 hl-string-96797f64
 alone.rel	001b63ec
 client.rel	00102394
@@ -29076,6 +29413,14 @@ server.rel	0013c174
 
 0000000a
 プユターナ
+hl-string-5be188c5
+alone.rel	001b6418
+client.rel	001023c0
+server.rel	0013c180
+boot.dol	00179d68
+
+00000002
+ホ
 hl-string-d45102f2
 alone.rel	001b641c
 client.rel	001023c4
@@ -29104,6 +29449,14 @@ server.rel	0013c19c
 
 00000008
 ホノドン
+hl-string-17b5becf
+alone.rel	001b6440
+client.rel	001023e8
+server.rel	0013c1a8
+boot.dol	00179cf8
+
+00000002
+イ
 hl-string-d37f79dd
 alone.rel	001b6444
 client.rel	001023ec
@@ -29132,6 +29485,14 @@ server.rel	0013c1c4
 
 00000008
 ギガズナ
+hl-string-9113d6e3
+alone.rel	001b6468
+client.rel	00102410
+server.rel	0013c1d0
+boot.dol	00179d8c
+
+00000002
+ラ
 hl-string-461713ed
 alone.rel	001b646c
 client.rel	00102414
@@ -29139,6 +29500,14 @@ server.rel	0013c1d4
 
 00000004
 ラー
+hl-string-15ed6902
+alone.rel	001b6474
+client.rel	0010241c
+server.rel	0013c1dc
+boot.dol	00179d10
+
+00000002
+ク
 hl-string-70c27555
 alone.rel	001b6478
 client.rel	00102420
@@ -29153,6 +29522,13 @@ server.rel	0013c1e8
 
 00000006
 クウガ
+hl-string-c2e46c92
+alone.rel	001b6488
+client.rel	00102430
+server.rel	0013c1f0
+
+00000002
+ゼ
 hl-string-c3005bcc
 alone.rel	001b648c
 client.rel	00102434
@@ -29195,6 +29571,14 @@ server.rel	0013c220
 
 00000006
 キュポ
+hl-string-6a64dbd4
+alone.rel	001b64c0
+client.rel	00102468
+server.rel	0013c228
+boot.dol	00179cfc
+
+00000002
+ウ
 hl-string-927b8992
 alone.rel	001b64c4
 client.rel	0010246c
@@ -30398,12 +30782,6 @@ server.rel	0014eb10
 
 00000016
 広範囲の味方生死問わず
-hl-string-fc1599a5
-alone.rel	001b7ef4
-server.rel	0014eb2c
-
-00000008
-Creature
 hl-string-8e7816c0
 alone.rel	001b7f98
 client.rel	00117ce8
@@ -32650,6 +33028,13 @@ server.rel	0014fdc0
 
 0000000d
 人型 女(中年)
+hl-string-93403a1f
+alone.rel	001b9198
+client.rel	00118ee8
+server.rel	0014fdd0
+
+00000002
+卵
 hl-string-98d25f5c
 alone.rel	001b919c
 client.rel	00118eec
@@ -34097,6 +34482,12 @@ client.rel	00110bc0
 
 00000006
 %3d →
+hl-string-0eb0c9f9
+alone.rel	001c66b0
+client.rel	00110bc8
+
+00000003
+%3d
 hl-string-8a985d29
 alone.rel	001c6728
 client.rel	00110c40
@@ -34155,6 +34546,21 @@ all.bin	1b187926
 
 00000004
 ボル
+hl-string-907df46f
+alone.rel	001c6738
+client.rel	00110c50
+all.bin	1e046487
+all.bin	1e075463
+
+00000002
+－
+hl-string-2258408e
+alone.rel	001c673c
+client.rel	00110c54
+all.bin	193fe0f4
+
+00000002
+＋
 hl-string-a2979390
 alone.rel	001c6b18
 client.rel	0010e478
@@ -36668,6 +37074,12 @@ client.rel	00113360
 
 00000007
 　パウ:
+hl-string-5da345a4
+alone.rel	001cb398
+client.rel	00113368
+
+00000002
+/ 
 hl-string-f6f866d0
 alone.rel	001cb39c
 client.rel	0011336c
@@ -36680,6 +37092,13 @@ client.rel	00113380
 
 00000013
 こんかいのげんてん:
+hl-string-6bf8f513
+alone.rel	001cb3c4
+client.rel	00113394
+all.bin	121823e4
+
+00000002
+％
 hl-string-af4aa9d7
 alone.rel	001cb3e0
 alone.rel	001cb6fc
@@ -36695,6 +37114,19 @@ client.rel	001133b8
 
 00000009
 けいけん:
+hl-string-fcdb0592
+alone.rel	001cb3f4
+client.rel	001133c4
+
+00000002
+LV
+hl-string-25222ca8
+alone.rel	001cb3f8
+alone.rel	001d2968
+client.rel	001133c8
+
+00000002
+%d
 hl-string-db82f9bb
 alone.rel	001cb3fc
 
@@ -37339,6 +37771,18 @@ server.rel	0014c86c
 
 0000002c
 ! 演算子がデータの型の不一致で実行できません
+hl-string-69e69621
+alone.rel	001dc0f8
+server.rel	0014c8a0
+
+00000003
+NIL
+hl-string-d0cc8bf2
+alone.rel	001dc0fc
+server.rel	0014c8a4
+
+00000002
+%g
 hl-string-95016d40
 alone.rel	001ddc98
 server.rel	0014e440
@@ -37736,11 +38180,21 @@ client.rel	0011a510
 
 0000000e
 NetStartupTask
+hl-string-a08dd6fa
+client.rel	0011a554
+
+00000002
+＊
 hl-string-d5e0cb32
 client.rel	0011a55c
 
 0000001d
  %3d . %3d . %3d . %3d  決定 
+hl-string-f705d7dd
+server.rel	000fe878
+
+00000002
+@ 
 hl-string-8f288548
 server.rel	00121161
 
@@ -38981,6 +39435,11 @@ server.rel	0014e680
 
 00000006
 ダミー
+hl-string-fc1599a5
+server.rel	0014eb2c
+
+00000008
+Creature
 hl-string-57a0f0cd
 boot.dol	000f4688
 
@@ -39658,6 +40117,11 @@ boot.dol	000f4d8c
 
 0000000a
 ワハハハハ
+hl-string-910e94a9
+boot.dol	000f4ef1
+
+00000002
+MX
 hl-string-751f8c09
 boot.dol	000f52f8
 
@@ -40063,6 +40527,20 @@ boot.dol	000f6cac
 
 00000009
 %s だった
+hl-string-f8ac19f8
+boot.dol	001798e0
+boot.dol	00179970
+all.bin	184fc3ad
+all.bin	193fe3a7
+all.bin	19400d2b
+all.bin	1aee45d6
+all.bin	1aee5371
+all.bin	1b2dde1e
+all.bin	1e046aca
+all.bin	1e075aa6
+
+00000004
+はい
 hl-string-93c28c10
 boot.dol	001798e8
 boot.dol	00179960
@@ -40077,24 +40555,61 @@ all.bin	1e075aab
 
 00000006
 いいえ
-hl-string-f8ac19f8
-boot.dol	00179970
-all.bin	184fc3ad
-all.bin	193fe3a7
-all.bin	19400d2b
-all.bin	1aee45d6
-all.bin	1aee5371
-all.bin	1b2dde1e
-all.bin	1e046aca
-all.bin	1e075aa6
+hl-string-fdcf6b82
+boot.dol	00179a30
 
-00000004
-はい
-hl-string-b422af68
-boot.dol	00179a6a
+00000002
+Ａ
+hl-string-342e63ca
+boot.dol	00179a34
 
-00000004
-げて
+00000002
+Ｂ
+hl-string-24c81071
+boot.dol	00179a38
+
+00000002
+Ｃ
+hl-string-cac76d39
+boot.dol	00179a3c
+
+00000002
+Ｄ
+hl-string-b0d48e47
+boot.dol	00179a40
+
+00000002
+Ｅ
+hl-string-18719a71
+boot.dol	00179a44
+
+00000002
+Ｆ
+hl-string-7f8ece86
+boot.dol	00179a48
+
+00000002
+Ｇ
+hl-string-30380502
+boot.dol	00179a4c
+
+00000002
+Ｈ
+hl-string-23c26c77
+boot.dol	00179a50
+
+00000002
+Ｊ
+hl-string-b7b61f7d
+boot.dol	00179a54
+
+00000002
+Ｋ
+hl-string-021f1bdf
+boot.dol	00179a68
+
+00000006
+あげて
 hl-string-59b0ca93
 boot.dol	00179a70
 
@@ -40249,11 +40764,553 @@ all.bin	184fc471
 
 00000006
 パーク
+hl-string-62424327
+boot.dol	00179baa
+boot.dol	00179d2c
+
+00000002
+ソ
 hl-string-ae300098
 boot.dol	00179bb6
 
 00000004
 ド≪
+hl-string-10bfaaae
+boot.dol	00179bbc
+boot.dol	00179cc4
+
+00000002
+√
+hl-string-c464f355
+boot.dol	00179bc0
+boot.dol	00179cc8
+
+00000002
+≫
+hl-string-1acbda3a
+boot.dol	00179bc4
+boot.dol	00179ccc
+
+00000002
+≒
+hl-string-3a387377
+boot.dol	00179bc8
+boot.dol	00179cd0
+
+00000002
+≡
+hl-string-0207ce52
+boot.dol	00179bcc
+
+00000002
+っ
+hl-string-9c9436fd
+boot.dol	00179bd0
+boot.dol	00179cd8
+boot.dol	00179e28
+
+00000002
+ー
+hl-string-92283ac8
+boot.dol	00179bd4
+boot.dol	00179cdc
+boot.dol	00179e2c
+all.bin	1ae1d803
+
+00000002
+～
+hl-string-43168012
+boot.dol	00179bd8
+boot.dol	00179ce0
+boot.dol	00179e30
+
+00000002
+‥
+hl-string-aab1cc27
+boot.dol	00179bdc
+boot.dol	00179ce4
+boot.dol	00179e34
+
+00000002
+？
+hl-string-51825c32
+boot.dol	00179be0
+boot.dol	00179ce8
+boot.dol	00179e38
+all.bin	03ed4976
+all.bin	1aee54c9
+
+00000002
+！
+hl-string-3420e8cf
+boot.dol	00179be4
+boot.dol	00179cec
+boot.dol	00179e3c
+all.bin	0d22acdd
+
+00000002
+。
+hl-string-5845a3f6
+boot.dol	00179be8
+boot.dol	00179cf0
+boot.dol	00179e40
+boot.dol	00179e88
+all.bin	00914a7c
+all.bin	05625ec7
+
+00000002
+　
+hl-string-73170355
+boot.dol	00179bec
+
+00000002
+あ
+hl-string-d08c21f8
+boot.dol	00179bf0
+
+00000002
+い
+hl-string-4f2c3549
+boot.dol	00179bf4
+
+00000002
+う
+hl-string-73945857
+boot.dol	00179bf8
+
+00000002
+え
+hl-string-f7838ed1
+boot.dol	00179bfc
+
+00000002
+お
+hl-string-c251701a
+boot.dol	00179c00
+
+00000002
+か
+hl-string-d7614dc1
+boot.dol	00179c04
+
+00000002
+き
+hl-string-17d7247a
+boot.dol	00179c08
+
+00000002
+く
+hl-string-b0b61789
+boot.dol	00179c0c
+
+00000002
+け
+hl-string-3f97ec8b
+boot.dol	00179c10
+boot.dol	00179e18
+all.bin	1ae1eded
+
+00000002
+こ
+hl-string-2a9cfc51
+boot.dol	00179c14
+
+00000002
+さ
+hl-string-b478856e
+boot.dol	00179c18
+
+00000002
+し
+hl-string-ad8a9479
+boot.dol	00179c1c
+
+00000002
+す
+hl-string-01ea236b
+boot.dol	00179c20
+
+00000002
+せ
+hl-string-c01cc943
+boot.dol	00179c24
+
+00000002
+そ
+hl-string-01ed5649
+boot.dol	00179c28
+
+00000002
+た
+hl-string-6568cf87
+boot.dol	00179c2c
+
+00000002
+ち
+hl-string-2bc534ec
+boot.dol	00179c30
+boot.dol	00179e24
+
+00000002
+つ
+hl-string-d9efd58d
+boot.dol	00179c34
+
+00000002
+て
+hl-string-1b5e8e03
+boot.dol	00179c38
+all.bin	0cfae04e
+all.bin	107a6fc5
+all.bin	12719dfe
+
+00000002
+と
+hl-string-dbaad20d
+boot.dol	00179c3c
+
+00000002
+な
+hl-string-d086e206
+boot.dol	00179c40
+all.bin	1b3c4388
+
+00000002
+に
+hl-string-6adf067c
+boot.dol	00179c44
+
+00000002
+ぬ
+hl-string-ce97fdf2
+boot.dol	00179c48
+
+00000002
+ね
+hl-string-dc434044
+boot.dol	00179c4c
+all.bin	186fe280
+all.bin	18740115
+
+00000002
+の
+hl-string-e5927f09
+boot.dol	00179c50
+all.bin	186fe3c7
+all.bin	1b3c5b92
+
+00000002
+は
+hl-string-ad3cab65
+boot.dol	00179c54
+
+00000002
+ひ
+hl-string-190a9bfa
+boot.dol	00179c58
+
+00000002
+ふ
+hl-string-eba47d89
+boot.dol	00179c5c
+
+00000002
+へ
+hl-string-0cff8ec9
+boot.dol	00179c60
+
+00000002
+ほ
+hl-string-4e7a85a6
+boot.dol	00179c64
+
+00000002
+ま
+hl-string-cc9575db
+boot.dol	00179c68
+
+00000002
+み
+hl-string-98a6b515
+boot.dol	00179c6c
+
+00000002
+む
+hl-string-0042b255
+boot.dol	00179c70
+
+00000002
+め
+hl-string-9a6cf9ed
+boot.dol	00179c74
+
+00000002
+も
+hl-string-8eae3962
+boot.dol	00179c7c
+
+00000002
+ゆ
+hl-string-90c0682c
+boot.dol	00179c80
+
+00000002
+よ
+hl-string-85329da6
+boot.dol	00179c84
+
+00000002
+ら
+hl-string-bd81a816
+boot.dol	00179c88
+
+00000002
+り
+hl-string-341c6bed
+boot.dol	00179c8c
+
+00000002
+る
+hl-string-b911ab77
+boot.dol	00179c90
+
+00000002
+れ
+hl-string-e2bd3171
+boot.dol	00179c94
+
+00000002
+ろ
+hl-string-16cb07a4
+boot.dol	00179c98
+
+00000002
+わ
+hl-string-4f5f834d
+boot.dol	00179c9c
+
+00000002
+を
+hl-string-d976ed7e
+boot.dol	00179ca0
+
+00000002
+ん
+hl-string-c12fcfce
+boot.dol	00179cba
+
+00000002
+З
+hl-string-c15b621f
+boot.dol	00179cc0
+
+00000002
+≪
+hl-string-1a398b56
+boot.dol	00179cd4
+
+00000002
+ッ
+hl-string-12d5b016
+boot.dol	00179cf4
+
+00000002
+ア
+hl-string-c0607a0c
+boot.dol	00179d00
+
+00000002
+エ
+hl-string-20761f6c
+boot.dol	00179d04
+
+00000002
+オ
+hl-string-a2e22efb
+boot.dol	00179d08
+
+00000002
+カ
+hl-string-b838f1dd
+boot.dol	00179d0c
+
+00000002
+キ
+hl-string-138edefc
+boot.dol	00179d14
+
+00000002
+ケ
+hl-string-26469775
+boot.dol	00179d18
+
+00000002
+コ
+hl-string-4b465cdd
+boot.dol	00179d1c
+
+00000002
+サ
+hl-string-c2e1d717
+boot.dol	00179d20
+
+00000002
+シ
+hl-string-1c04f43b
+boot.dol	00179d24
+
+00000002
+ス
+hl-string-4d3856ef
+boot.dol	00179d28
+
+00000002
+セ
+hl-string-9078b2fa
+boot.dol	00179d30
+
+00000002
+タ
+hl-string-8829ccfc
+boot.dol	00179d34
+
+00000002
+チ
+hl-string-60e1326d
+boot.dol	00179d38
+
+00000002
+ツ
+hl-string-a08fe9fb
+boot.dol	00179d3c
+
+00000002
+テ
+hl-string-83473039
+boot.dol	00179d40
+
+00000002
+ト
+hl-string-5345081b
+boot.dol	00179d44
+
+00000002
+ナ
+hl-string-4309bcba
+boot.dol	00179d48
+
+00000002
+ニ
+hl-string-85895512
+boot.dol	00179d4c
+
+00000002
+ヌ
+hl-string-9f31f460
+boot.dol	00179d50
+
+00000002
+ネ
+hl-string-1d22412a
+boot.dol	00179d54
+
+00000002
+ノ
+hl-string-6a9aaa33
+boot.dol	00179d58
+
+00000002
+ハ
+hl-string-f48302e4
+boot.dol	00179d5c
+
+00000002
+ヒ
+hl-string-d324abe6
+boot.dol	00179d60
+
+00000002
+フ
+hl-string-51b30ca8
+boot.dol	00179d64
+
+00000002
+ヘ
+hl-string-bb1f9641
+boot.dol	00179d6c
+
+00000002
+マ
+hl-string-b34d6405
+boot.dol	00179d70
+
+00000002
+ミ
+hl-string-5b2c176d
+boot.dol	00179d74
+
+00000002
+ム
+hl-string-4bf78a2c
+boot.dol	00179d78
+
+00000002
+メ
+hl-string-857400a4
+boot.dol	00179d7c
+
+00000002
+モ
+hl-string-bc2f8127
+boot.dol	00179d80
+
+00000002
+ヤ
+hl-string-010489c8
+boot.dol	00179d84
+
+00000002
+ユ
+hl-string-b41b34ab
+boot.dol	00179d88
+
+00000002
+ヨ
+hl-string-e16bd0a9
+boot.dol	00179d90
+
+00000002
+リ
+hl-string-06a3da98
+boot.dol	00179d94
+
+00000002
+ル
+hl-string-5b7a8f8e
+boot.dol	00179d98
+
+00000002
+レ
+hl-string-f92a318d
+boot.dol	00179d9c
+
+00000002
+ロ
+hl-string-ea755ea1
+boot.dol	00179da0
+
+00000002
+ワ
+hl-string-3af8ae27
+boot.dol	00179da4
+
+00000002
+ヲ
+hl-string-a4e677ad
+boot.dol	00179da8
+
+00000002
+ン
 hl-string-9b2f0923
 boot.dol	00179dc8
 
@@ -40289,6 +41346,97 @@ boot.dol	00179e1c
 
 00000004
 かい
+hl-string-620f5b7c
+boot.dol	00179e44
+all.bin	107a8348
+all.bin	1aee5bf2
+all.bin	1b23608b
+all.bin	1b237821
+
+00000002
+１
+hl-string-9f7f0bda
+boot.dol	00179e48
+all.bin	107a8345
+all.bin	1aee5bef
+all.bin	1b236088
+all.bin	1b23781e
+
+00000002
+２
+hl-string-0f1e0672
+boot.dol	00179e4c
+all.bin	107a8342
+all.bin	1aee5bec
+all.bin	1b236085
+all.bin	1b23781b
+
+00000002
+３
+hl-string-1e0c0857
+boot.dol	00179e50
+all.bin	1b236082
+all.bin	1b237818
+
+00000002
+４
+hl-string-a663f794
+boot.dol	00179e54
+all.bin	1b23607f
+all.bin	1b237815
+
+00000002
+５
+hl-string-516b2138
+boot.dol	00179e58
+
+00000002
+６
+hl-string-b15c39cd
+boot.dol	00179e5c
+
+00000002
+７
+hl-string-2a565720
+boot.dol	00179e60
+
+00000002
+８
+hl-string-0de3ba7f
+boot.dol	00179e64
+
+00000002
+９
+hl-string-e12f22cc
+boot.dol	00179e68
+
+00000002
+０
+hl-string-de4665b1
+boot.dol	00179e6e
+
+00000002
+�､
+hl-string-fafcef7d
+boot.dol	00179e82
+
+00000002
+�ﾐ
+hl-string-fb8bdd9f
+boot.dol	00179e8c
+
+00000002
+∫
+hl-string-078e45d7
+boot.dol	00179e90
+
+00000002
+∬
+hl-string-c50f23b8
+boot.dol	00179e94
+
+00000002
+∃
 hl-string-d0ed1be8
 all.bin	00000164
 all.bin	0049b76c
@@ -46545,12 +47693,6 @@ all.bin	00914a6d
 
 0000000e
 きずがなおった
-hl-string-5845a3f6
-all.bin	00914a7c
-all.bin	05625ec7
-
-00000002
-　
 hl-string-e8b8272c
 all.bin	00914a8d
 
@@ -71933,12 +73075,6 @@ all.bin	03ed493f
 
 かれが トンネルさがしの
 いっさいを しきっています。▼
-hl-string-51825c32
-all.bin	03ed4976
-all.bin	1aee54c9
-
-00000002
-！
 hl-string-5c4b19e6
 all.bin	03ed497c
 
@@ -120251,13 +121387,6 @@ all.bin	0cfae045
 
 00000008
 あなたの
-hl-string-1b5e8e03
-all.bin	0cfae04e
-all.bin	107a6fc5
-all.bin	12719dfe
-
-00000002
-と
 hl-string-185b8fd3
 all.bin	0cfae051
 
@@ -122387,11 +123516,6 @@ all.bin	0d22acd5
 
 00000007
 よう！ 
-hl-string-3420e8cf
-all.bin	0d22acdd
-
-00000002
-。
 hl-string-2d256ad2
 all.bin	0d22ace0
 
@@ -133487,30 +134611,6 @@ all.bin	107a8337
 
 0000000a
 ウゴー！！
-hl-string-0f1e0672
-all.bin	107a8342
-all.bin	1aee5bec
-all.bin	1b236085
-all.bin	1b23781b
-
-00000002
-３
-hl-string-9f7f0bda
-all.bin	107a8345
-all.bin	1aee5bef
-all.bin	1b236088
-all.bin	1b23781e
-
-00000002
-２
-hl-string-620f5b7c
-all.bin	107a8348
-all.bin	1aee5bf2
-all.bin	1b23608b
-all.bin	1b237821
-
-00000002
-１
 hl-string-74f3b8e9
 all.bin	107a834b
 all.bin	1aee5bf5
@@ -140681,11 +141781,6 @@ all.bin	121823cf
 
 00000014
 こんかいのげんてん：
-hl-string-6bf8f513
-all.bin	121823e4
-
-00000002
-％
 hl-string-fda52476
 all.bin	121823e7
 
@@ -153113,12 +154208,6 @@ all.bin	1874010c
 
 00000008
 じゃ。▼
-hl-string-dc434044
-all.bin	186fe280
-all.bin	18740115
-
-00000002
-の
 hl-string-6d60193c
 all.bin	186fe283
 all.bin	18740118
@@ -153176,12 +154265,6 @@ all.bin	186fe3bd
 
 00000009
 こうして 
-hl-string-e5927f09
-all.bin	186fe3c7
-all.bin	1b3c5b92
-
-00000002
-は
 hl-string-6024daba
 all.bin	186fe3ca
 
@@ -153901,11 +154984,6 @@ all.bin	19400b33
 
 00000014
 クリアポイントー３０
-hl-string-2258408e
-all.bin	193fe0f4
-
-00000002
-＋
 hl-string-34089964
 all.bin	193fe100
 all.bin	19400b59
@@ -156788,11 +157866,6 @@ all.bin	1ae1d7ff
 00000003
 
 ～
-hl-string-92283ac8
-all.bin	1ae1d803
-
-00000002
-～
 hl-string-0bdefc66
 all.bin	1ae1d806
 
@@ -157099,11 +158172,6 @@ all.bin	1ae1ede4
 
 00000008
 ぜんぶで
-hl-string-3f97ec8b
-all.bin	1ae1eded
-
-00000002
-こ
 hl-string-5c05dd55
 all.bin	1ae1edf0
 
@@ -159394,18 +160462,6 @@ all.bin	1b23606b
 
 00000013
 俺たちmovePlayers！
-hl-string-a663f794
-all.bin	1b23607f
-all.bin	1b237815
-
-00000002
-５
-hl-string-1e0c0857
-all.bin	1b236082
-all.bin	1b237818
-
-00000002
-４
 hl-string-1530ff25
 all.bin	1b23608e
 
@@ -159851,11 +160907,6 @@ all.bin	1b3c437b
 
 0000000c
 当たりそうだ
-hl-string-d086e206
-all.bin	1b3c4388
-
-00000002
-に
 hl-string-71b37b9a
 all.bin	1b3c438b
 
@@ -161354,12 +162405,6 @@ all.bin	1e07544a
 
 00000018
 isEnemyFriendNearBinding
-hl-string-907df46f
-all.bin	1e046487
-all.bin	1e075463
-
-00000002
-－
 hl-string-32f905df
 all.bin	1e04648a
 all.bin	1e075466
